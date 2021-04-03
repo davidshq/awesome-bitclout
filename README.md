@@ -2,6 +2,8 @@
 
 Curated collection of code, tools, and resources relating to the BitClout blockchain social network.
 
+Note: I have not utilized all of the tools here, please do your own due diligence in determining their appropriateness, security, and safety for your particular use case.
+
 ## Documentation
 
 ### API
@@ -20,6 +22,9 @@ Curated collection of code, tools, and resources relating to the BitClout blockc
 
 - Looking for resources to add here!
 
+## Browser Extensions
+- [BitClout Plus](https://github.com/iPaulPro/BitCloutPlus) - Paul Burke's browser extension that extends the BitCloud featureset. Includes sell buttons, price in BTCLT, # of holders, % coin per holder, positional ranking of holders, founders fee, and so on.
+
 ## BitClout Accounts to Follow
 
 These BitClout accounts are of value to those interested in the technical side of BitClout. Feel free to submit additional accounts (see Contributing at end of this doc). Only accounts which provide high value content will be included.
@@ -28,6 +33,7 @@ These BitClout accounts are of value to those interested in the technical side o
 - [@maebeam](https://bitclout.com/u/maebeam) - Does a lot of heavy lifting on the BitClout code.
 - [@HPaulson](https://bitclout.com/u/HPaulson) - Manages the community-sourced documentation on the BitClout API. 
 - [@ludo](https://bitclout.com/u/ludo) - Has an OSS repo of Swift-based BitClout resources, does visualizations of the BitClout network.
+- [Paul Burke](https://bitclout.com/u/paulburke) - Author of the browser extension BitClout Plus.
 
 ## Contributing
 You can submit a link for inclusion (or to request removal, editing, etc.) in several ways:
