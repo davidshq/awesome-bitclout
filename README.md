@@ -24,6 +24,7 @@ Note: I have not utilized all of the tools here, please do your own due diligenc
 
 ## Browser Extensions
 - [BitClout Plus](https://github.com/iPaulPro/BitCloutPlus) - Paul Burke's browser extension that extends the BitCloud featureset. Includes sell buttons, price in BTCLT, # of holders, % coin per holder, positional ranking of holders, founders fee, and so on.
+- [GoDo BitClout Extension](https://github.com/godocompany/bitclout-extension) - Similar to BitClout Plus but appears to have a more limited featureset.
 
 ## BitClout Accounts to Follow
 
@@ -34,6 +35,7 @@ These BitClout accounts are of value to those interested in the technical side o
 - [@HPaulson](https://bitclout.com/u/HPaulson) - Manages the community-sourced documentation on the BitClout API. 
 - [@ludo](https://bitclout.com/u/ludo) - Has an OSS repo of Swift-based BitClout resources, does visualizations of the BitClout network.
 - [Paul Burke](https://bitclout.com/u/paulburke) - Author of the browser extension BitClout Plus.
+- [GoDo Company](https://bitclout.com/u/GoDo) - Authors of the GoDo BitClout Extension.
 
 ## Contributing
 You can submit a link for inclusion (or to request removal, editing, etc.) in several ways:
