@@ -18,6 +18,10 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 - [BitClout Pulse](https://www.bitcloutpulse.com/)
   - Provides a number of useful services to BitClout users. The most basic is a searchable and sortable grid of BitClout users that shows their coin price, % change in past 24 hrs, circulating supply, # of followers on Twitter, and so on.
   - Additional features include a blockchain explorer, research articles, and a wallet explorer.
+- [GoDo's BitClout Browser Extension](https://chrome.google.com/webstore/detail/bitclout/cibnoimijnodokdlhkbgogbnemfpkool?hl=en-US)
+  - See the founder's reward percentage on the buy page, provides shortcuts for quicker navigation around BitClout, and includes various other analysis and stats added to the site.
+- [BitCloutFollow](https://bitcloutfollow.com/)
+  - Discover BitClout users organized by interests.
 
 ## What is BitClout?
 - [BitClout's One Pager](https://bitclout.com/one_pager.pdf) (that is seven pages long)
