@@ -8,6 +8,15 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 - [BitClout](https://bitclout.com/)
 - [BitClout on Twitter](https://twitter.com/bitclout_)
 
+## Beginner Resources
+- [GiftClout](https://bitclout.com/u/GiftClout) 
+  - Gives away free BitClout to users who request it, no strings attached.
+
+## Power Tools
+- [BitClout Pulse](https://www.bitcloutpulse.com/)
+  - Provides a number of useful services to BitClout users. The most basic is a searchable and sortable grid of BitClout users that shows their coin price, % change in past 24 hrs, circulating supply, # of followers on Twitter, and so on.
+  - Additional features include a blockchain explorer, research articles, and a wallet explorer.
+
 ## What is BitClout?
 - [BitClout's One Pager](https://bitclout.com/one_pager.pdf) (that is seven pages long)
   - A brief introduction / overview to BitClout and how it works.
