@@ -2,6 +2,8 @@
 
 Curated collection of resources relating to the [BitClout blockchain social network](https://bitclout.com/).
 
+**Warning**: We are not guaranteeing the trustworthiness or security of any resources available here. You need to perform your own due diligence to ensure their suitability and trustworthiness for your particular use cases.
+
 **Developers**: See [DevResources.md](DevResources.md)
 
 ## Official Bitclout Resources
