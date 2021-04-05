@@ -2,4 +2,19 @@
 
 Curated collection of resources relating to the [BitClout blockchain social network](https://bitclout.com/).
 
-**Developers**: This README.md is now dedicated to general BitClout resources. If you are looking for developer resources related to BitClout check out [DevResources.md](DevResources.md)
+**Developers**: See [DevResources.md](DevResources.md)
+
+## Official Bitclout Resources
+- [BitClout](https://bitclout.com/)
+- [BitClout on Twitter](https://twitter.com/bitclout_)
+
+## What is BitClout?
+- [BitClout's One Pager](https://bitclout.com/one_pager.pdf) (that is seven pages long)
+  - A brief introduction / overview to BitClout and how it works.
+- [coindesk's What Is BitClout?](https://www.coindesk.com/what-is-bitclout-the-social-media-experiment-stoking-controversy-on-twitter)
+  - A detailed accounting of what BitClout is and how people are responding to it.
+  - Alternative Sources: [TechCrunch](https://techcrunch.com/2021/03/22/crypto-social-network-bitclout-arrives-with-a-bevy-of-high-profile-investors-and-skeptics/), [coingeek](https://coingeek.com/token-based-social-media-bitclout-raising-lots-of-money-and-eyebrows/)
+- [decrypt's Inside BitClout](https://decrypt.co/62770/inside-bitclout-dystopian-social-network-big-investors-vocal-critics)
+  - Another detailed accounting of BitClout similar to coindesk's above. This and coindesks are really worthwhile reads.
+- [BitClout's social media experiment is one bad idea on top of another](https://amycastor.com/2021/03/28/bitclouts-social-media-experiment-is-one-bad-idea-on-top-of-another/) by Amy Castor is a particularly critical look at BitClout.
+- [ProductHunt's BitClout page](https://www.producthunt.com/posts/bitclout) has some interesting conversations going.
