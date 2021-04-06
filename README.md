@@ -13,6 +13,8 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 ## Beginner Resources
 - [GiftClout](https://bitclout.com/u/GiftClout) 
   - Gives away free BitClout to users who request it, no strings attached.
+- [Bitclout Forums](https://bitcloutforums.com/)
+  - Friendly and active forums for discussing all your questions and thoughts regarding BitClout.
 
 ## Power Tools
 - [BitClout Pulse](https://www.bitcloutpulse.com/)
