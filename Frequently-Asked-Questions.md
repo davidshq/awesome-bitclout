@@ -13,3 +13,12 @@ Unfortunately, if you've lost this information you cannot recover the account. W
 Yes, use [https://explorer.bitclout.com/](https://explorer.bitclout.com/)
 
 [QA Source](https://bitcloutforums.com/showthread.php?184-Is-it-possible-to-find-someone-on-bitclout-using-their-public-key)
+
+# Question: What sort of perks could I offer top BitClout holders?
+- Video Call
+- Newsletter
+- Reciprocal Buys
+- Small Group Chats
+- NFTs
+
+[QA Source](https://bitcloutforums.com/showthread.php?165-Ideas-for-Perks-for-your-Top-BitClout-Coin-Holders)
