@@ -20,5 +20,6 @@ Yes, use [https://explorer.bitclout.com/](https://explorer.bitclout.com/)
 - Reciprocal Buys
 - Small Group Chats
 - NFTs
+- Active engagement with their questions, comments, posts.
 
 [QA Source](https://bitcloutforums.com/showthread.php?165-Ideas-for-Perks-for-your-Top-BitClout-Coin-Holders)
