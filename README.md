@@ -6,6 +6,10 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 
 **Developers**: See [DevResources.md](DevResources.md)
 
+**[Frequently Asked Questions](Frequently-Asked-Questions.md)**
+
+**[Feature Wish List](FeatureWishList.md)**
+
 ## Official Bitclout Resources
 - [BitClout](https://bitclout.com/)
 - [BitClout on Twitter](https://twitter.com/bitclout_)
