@@ -33,6 +33,7 @@ These BitClout accounts are of value to those interested in the technical side o
 
 - [@DiamondHands](https://bitclout.com/u/diamondhands) - Public face of BitClout team on infrastructure / development updates.
 - [@maebeam](https://bitclout.com/u/maebeam) - Does a lot of heavy lifting on the BitClout code.
+- [@LazyNina](https://bitclout.com/u/LazyNina) - Implemented reclouting functionality.
 - [@HPaulson](https://bitclout.com/u/HPaulson) - Manages the community-sourced documentation on the BitClout API. 
 - [@ludo](https://bitclout.com/u/ludo) - Has an OSS repo of Swift-based BitClout resources, does visualizations of the BitClout network.
 - [Paul Burke (@paulburke)](https://bitclout.com/u/paulburke) - Author of the browser extension BitClout Plus.
