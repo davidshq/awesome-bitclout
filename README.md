@@ -48,5 +48,5 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 You can submit a link for inclusion (or to request removal, editing, etc.) in several ways:
 
 1. Hit [me](https://bitclout.com/u/davemackey) up on BitClout.
-Submit an [Issue](https://github.com/davidshq/awesome-bitclout/issues).
-Submit a [Pull Request](https://github.com/davidshq/awesome-bitclout/pulls).
+2. Submit an [Issue](https://github.com/davidshq/awesome-bitclout/issues).
+3. Submit a [Pull Request](https://github.com/davidshq/awesome-bitclout/pulls).
