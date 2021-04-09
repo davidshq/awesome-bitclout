@@ -43,3 +43,10 @@ Curated collection of resources relating to the [BitClout blockchain social netw
   - By Amy Castor is a particularly critical look at BitClout.
 - [ProductHunt's BitClout page](https://www.producthunt.com/posts/bitclout)
   - Has some interesting threads going. As of 4/5/21 BitClout has received a relatively low number of votes from ProductHunt users (<300).
+
+## Contributing
+You can submit a link for inclusion (or to request removal, editing, etc.) in several ways:
+
+1. Hit [me](https://bitclout.com/u/davemackey) up on BitClout.
+Submit an [Issue](https://github.com/davidshq/awesome-bitclout/issues).
+Submit a [Pull Request](https://github.com/davidshq/awesome-bitclout/pulls).
