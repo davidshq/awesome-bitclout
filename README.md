@@ -30,6 +30,8 @@ Curated collection of resources relating to the [BitClout blockchain social netw
   - Discover BitClout users organized by interests.
 - [BitClout Creator Coin Price Calculator](https://www.prosperclout.com/tools/bitclout-creator-coin-price-calculator)
   - An easy to use tool that allows you to see how much buying / selling a given number of creator coins for a specific creator will impact their coin price, circulation, and market cap.
+- [BitSwap](https://bitswap.network/)
+  - Will allow individuals to buy/sell BitClout for Ethereum. This will be the first real way to cash out of BitSwap (I'm aware of).
 
 ## What is BitClout?
 - [BitClout's One Pager](https://bitclout.com/one_pager.pdf) (that is seven pages long)
