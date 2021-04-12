@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: Awesome BitClout
 description: Resources for using BitClout from n00b to developer and everything in-between.
 show_description: true
+plugins:
+  - jekyll-feed
