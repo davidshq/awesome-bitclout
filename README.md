@@ -33,6 +33,13 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 - [BitSwap](https://bitswap.network/)
   - Will allow individuals to buy/sell BitClout for Ethereum. This will be the first real way to cash out of BitSwap (I'm aware of).
 
+## Mobile Apps
+- [CloutFeed](https://apps.apple.com/app/id1561532815) - Apple iPhone app for BitClout.
+
+## BitClout Accounts to Follow
+- [@BitCloutDrops](https://bitclout.com/u/BitCloutDrops) - Announces what they consider to be "undervalued creator coins".
+- [@cloutfeed](https://bitclout.com/u/cloutfeed) - Creators of a BitClout mobile app for the Apple iPhone.
+
 ## What is BitClout?
 - [BitClout's One Pager](https://bitclout.com/one_pager.pdf) (that is seven pages long)
   - A brief introduction / overview to BitClout and how it works.
