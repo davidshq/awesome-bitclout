@@ -9,6 +9,7 @@ Note: I have not utilized all of the tools here, please do your own due diligenc
 ### API
 
 - [HPaulson/BitClout-API-Docs](https://github.com/HPaulson/BitClout-API-Docs) - Community sourced documentation.
+- [Unofficial Bitclout API](https://www.bitcloutapi.net/) - Allows one to make requests against an unofficial API for BitClout, must hold $15 in creator's coin to use.
 
 ## Swift
 
@@ -39,6 +40,7 @@ These BitClout accounts are of value to those interested in the technical side o
 - [Paul Burke (@paulburke)](https://bitclout.com/u/paulburke) - Author of the browser extension BitClout Plus.
 - [GoDo Company (@godo)](https://bitclout.com/u/GoDo) - Authors of the GoDo BitClout Extension.
 - [@zakharday](https://bitclout.com/u/zakharday) - Author of the BitClout SuperWallet extension.
+- [@antoinedc](https://bitclout.com/u/antoinedc) - Author of the Unofficial Bitclout API and Bitclout Market Cap.
 
 ## Contributing
 You can submit a link for inclusion (or to request removal, editing, etc.) in several ways:
