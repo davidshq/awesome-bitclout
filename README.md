@@ -32,6 +32,14 @@ Curated collection of resources relating to the [BitClout blockchain social netw
   - An easy to use tool that allows you to see how much buying / selling a given number of creator coins for a specific creator will impact their coin price, circulation, and market cap.
 - [BitSwap](https://bitswap.network/)
   - Will allow individuals to buy/sell BitClout for Ethereum. This will be the first real way to cash out of BitSwap (I'm aware of).
+- [BitcloutMarketCap](https://www.bitcloutmarketcap.net/) - Allows one to see one's stats over time, must contribute any amount to creator's coin in order to be added.
+
+## Mobile Apps
+- [CloutFeed](https://apps.apple.com/app/id1561532815) - Apple iPhone app for BitClout.
+
+## BitClout Accounts to Follow
+- [@BitCloutDrops](https://bitclout.com/u/BitCloutDrops) - Announces what they consider to be "undervalued creator coins".
+- [@cloutfeed](https://bitclout.com/u/cloutfeed) - Creators of a BitClout mobile app for the Apple iPhone.
 
 ## What is BitClout?
 - [BitClout's One Pager](https://bitclout.com/one_pager.pdf) (that is seven pages long)
