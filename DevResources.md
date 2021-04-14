@@ -40,6 +40,7 @@ These BitClout accounts are of value to those interested in the technical side o
 - [Paul Burke (@paulburke)](https://bitclout.com/u/paulburke) - Author of the browser extension BitClout Plus.
 - [GoDo Company (@godo)](https://bitclout.com/u/GoDo) - Authors of the GoDo BitClout Extension.
 - [@zakharday](https://bitclout.com/u/zakharday) - Author of the BitClout SuperWallet extension.
+- [Mubashar Iqbal (@mubashariqbal)](https://bitclout.com/u/mubashariqbal) - Author of the BitCloutFollow project.
 - [@antoinedc](https://bitclout.com/u/antoinedc) - Author of the Unofficial Bitclout API and Bitclout Market Cap.
 
 ## Contributing
