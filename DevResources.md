@@ -32,6 +32,8 @@ Note: I have not utilized all of the tools here, please do your own due diligenc
 
 These BitClout accounts are of value to those interested in the technical side of BitClout. Feel free to submit additional accounts (see Contributing at end of this doc). Only accounts which provide high value content will be included.
 
+Note: "high value content" generally means technical content and not just product info.
+
 - [@DiamondHands](https://bitclout.com/u/diamondhands) - Public face of BitClout team on infrastructure / development updates.
 - [@maebeam](https://bitclout.com/u/maebeam) - Does a lot of heavy lifting on the BitClout code.
 - [@LazyNina](https://bitclout.com/u/LazyNina) - Implemented reclouting functionality.
