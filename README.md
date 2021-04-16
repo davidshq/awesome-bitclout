@@ -36,6 +36,10 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 
 ## Mobile Apps
 - [CloutFeed](https://apps.apple.com/app/id1561532815) - Apple iPhone app for BitClout.
+- [CloutieApp](https://bitclout.com/u/CloutieApp) - An app for iOS and Mac, being developed by @chrismaddern and @wessmith.
+
+## MacOS Apps
+- [CloutieApp](https://bitclout.com/u/CloutieApp) - An app for iOS and Mac, being developed by @chrismaddern and @wessmith.
 
 ## BitClout Accounts to Follow
 - [@BitCloutDrops](https://bitclout.com/u/BitCloutDrops) - Announces what they consider to be "undervalued creator coins".
