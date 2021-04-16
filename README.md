@@ -45,6 +45,9 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 ## MacOS Apps
 - See CloutieApp under Mobile Apps.
 
+## Reward Coin Holders and/or Followers
+- [Moonbounce](https://getmoonbounce.com/) - Allows one to provide exclusive benefits to your coin holders. Seems similar to Patreon / OnlyFans. Created by @Social_Money and @saeri. 
+
 ## BitClout Accounts to Follow
 - [@BitCloutDrops](https://bitclout.com/u/BitCloutDrops) - Announces what they consider to be "undervalued creator coins".
 - [@cloutfeed](https://bitclout.com/u/cloutfeed) - Creators of a BitClout mobile app for the Apple iPhone.
