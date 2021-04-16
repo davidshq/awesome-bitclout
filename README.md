@@ -34,12 +34,16 @@ Curated collection of resources relating to the [BitClout blockchain social netw
   - Will allow individuals to buy/sell BitClout for Ethereum. This will be the first real way to cash out of BitSwap (I'm aware of).
 - [BitcloutMarketCap](https://www.bitcloutmarketcap.net/) - Allows one to see one's stats over time, must contribute any amount to creator's coin in order to be added.
 
+## Browser Extensions
+- [BitClout Dark Mode](https://jamesfuthey.com/bitclout-extension/) - An extension that works on Chromium, Firefox, and Safari browsers by @kidgodzilla.
+- See GoDo's BitClout Browser Extension under Power Tools.
+
 ## Mobile Apps
 - [CloutFeed](https://apps.apple.com/app/id1561532815) - Apple iPhone app for BitClout.
 - [CloutieApp](https://bitclout.com/u/CloutieApp) - An app for iOS and Mac, being developed by @chrismaddern and @wessmith.
 
 ## MacOS Apps
-- [CloutieApp](https://bitclout.com/u/CloutieApp) - An app for iOS and Mac, being developed by @chrismaddern and @wessmith.
+- See CloutieApp under Mobile Apps.
 
 ## BitClout Accounts to Follow
 - [@BitCloutDrops](https://bitclout.com/u/BitCloutDrops) - Announces what they consider to be "undervalued creator coins".
