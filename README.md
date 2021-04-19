@@ -21,18 +21,26 @@ Curated collection of resources relating to the [BitClout blockchain social netw
   - Friendly and active forums for discussing all your questions and thoughts regarding BitClout.
 
 ## Power Tools
+
+### Analytics
 - [BitClout Pulse](https://www.bitcloutpulse.com/)
   - Provides a number of useful services to BitClout users. The most basic is a searchable and sortable grid of BitClout users that shows their coin price, % change in past 24 hrs, circulating supply, # of followers on Twitter, and so on.
   - Additional features include a blockchain explorer, research articles, and a wallet explorer.
-- [GoDo's BitClout Browser Extension](https://chrome.google.com/webstore/detail/bitclout/cibnoimijnodokdlhkbgogbnemfpkool?hl=en-US)
-  - See the founder's reward percentage on the buy page, provides shortcuts for quicker navigation around BitClout, and includes various other analysis and stats added to the site.
-- [BitCloutFollow](https://bitcloutfollow.com/)
-  - Discover BitClout users organized by interests.
 - [BitClout Creator Coin Price Calculator](https://www.prosperclout.com/tools/bitclout-creator-coin-price-calculator)
   - An easy to use tool that allows you to see how much buying / selling a given number of creator coins for a specific creator will impact their coin price, circulation, and market cap.
+- [BitcloutMarketCap](https://www.bitcloutmarketcap.net/) - Allows one to see one's stats over time, must contribute any amount to creator's coin in order to be added.
+
+### Discovery
+- [BitCloutFollow](https://bitcloutfollow.com/)
+  - Discover BitClout users organized by interests.
+
+### Exchanges
 - [BitSwap](https://bitswap.network/)
   - Will allow individuals to buy/sell BitClout for Ethereum. This will be the first real way to cash out of BitSwap (I'm aware of).
-- [BitcloutMarketCap](https://www.bitcloutmarketcap.net/) - Allows one to see one's stats over time, must contribute any amount to creator's coin in order to be added.
+
+### Browser Extensions
+- [GoDo's BitClout Browser Extension](https://chrome.google.com/webstore/detail/bitclout/cibnoimijnodokdlhkbgogbnemfpkool?hl=en-US)
+  - See the founder's reward percentage on the buy page, provides shortcuts for quicker navigation around BitClout, and includes various other analysis and stats added to the site.
 
 ## Browser Extensions
 - [BitClout Dark Mode](https://jamesfuthey.com/bitclout-extension/) - An extension that works on Chromium, Firefox, and Safari browsers by @kidgodzilla.
