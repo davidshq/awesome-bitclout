@@ -60,7 +60,13 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 - [Moonbounce](https://getmoonbounce.com/) - Allows one to provide exclusive benefits to your coin holders. Seems similar to Patreon / OnlyFans. Created by @Social_Money and @saeri. 
 
 ## News and Commentary
-- [BitsTODAY](https://bitstoday.medium.com/) - A blog that covers the BitClout ecosystem, great for staying in touch with what is happening on BitClout. Also on BitClout [@BitToday](https://bitclout.com/u/BitsToday). Run by [@asg](https://bitclout.com/u/asg), [@Nvo](https://bitclout.com/u/nvo), [@nathanmaton](https://bitclout.com/u/nathanmaton), and [@dripcult](https://bitclout.com/u/dripcult). 
+- [BitsTODAY](https://bitstoday.medium.com/) 
+  - A blog that covers the BitClout ecosystem, great for staying in touch with what is happening on BitClout. 
+  - Also on BitClout [@BitToday](https://bitclout.com/u/BitsToday). 
+  - Run by [@asg](https://bitclout.com/u/asg), [@Nvo](https://bitclout.com/u/nvo), [@nathanmaton](https://bitclout.com/u/nathanmaton), and [@dripcult](https://bitclout.com/u/dripcult).
+-  [BitClout Podcast](https://www.bitcloutpodcast.com/)
+  - Already 15 episodes out (as of 4/25/21).
+  - By [@bitcloutbilly](https://bitclout.com/u/bitcloutbilly)
 
 ## BitClout Accounts to Follow
 - [@WhaleSharkdotPro](https://bitclout.com/u/WhaleSharkdotPro) - An early adopter of BitClout who shares wisdom on BitClout.
