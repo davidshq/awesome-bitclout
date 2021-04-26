@@ -38,6 +38,7 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 
 ### Exchanges
 - [BitSwap](https://bitswap.network/)
+  - BitClout Profile: [BitSwap](https://bitclout.com/u/BitSwap)
   - Will allow individuals to buy/sell BitClout for Ethereum. This will be the first real way to cash out of BitSwap (I'm aware of).
 
 ### Browser Extensions
