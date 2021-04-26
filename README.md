@@ -60,6 +60,7 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 - [BitsTODAY](https://bitstoday.medium.com/) - A blog that covers the BitClout ecosystem, great for staying in touch with what is happening on BitClout. Also on BitClout [@BitToday](https://bitclout.com/u/BitsToday). Run by [@asg](https://bitclout.com/u/asg), [@Nvo](https://bitclout.com/u/nvo), [@nathanmaton](https://bitclout.com/u/nathanmaton), and [@dripcult](https://bitclout.com/u/dripcult). 
 
 ## BitClout Accounts to Follow
+- [@WhaleSharkdotPro](https://bitclout.com/u/WhaleSharkdotPro) - An early adopter of BitClout who shares wisdom on BitClout.
 - [@BitCloutDrops](https://bitclout.com/u/BitCloutDrops) - Announces what they consider to be "undervalued creator coins".
 - [@cloutfeed](https://bitclout.com/u/cloutfeed) - Creators of a BitClout mobile app for the Apple iPhone.
 
