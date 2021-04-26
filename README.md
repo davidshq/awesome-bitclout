@@ -10,6 +10,8 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 
 **[Feature Wish List](FeatureWishList.md)**
 
+**[Up and Coming BitClout Resources](UpAndComing.md)**
+
 ## Official Bitclout Resources
 - [BitClout](https://bitclout.com/)
 - [BitClout on Twitter](https://twitter.com/bitclout_)
