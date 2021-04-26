@@ -11,6 +11,9 @@ Note: I have not utilized all of the tools here, please do your own due diligenc
 - [HPaulson/BitClout-API-Docs](https://github.com/HPaulson/BitClout-API-Docs) - Community sourced documentation.
 - [Unofficial Bitclout API](https://www.bitcloutapi.net/) - Allows one to make requests against an unofficial API for BitClout, must hold $15 in creator's coin to use.
 
+## Tutorials
+- [Setting Up a BitClout Node Using AWS EC2](https://docs.bitswap.network/setting-up-a-bitclout-node-using-aws-ec2) - Tutorial from @bitswap, @sigil, and @aryanm.
+
 ## Swift
 
 - [lludo/BitClout](https://github.com/lludo/BitClout) - Provides a blockchain data model as well as various services and tools: NetworkClient, StorageClient, QueryManager, StateManager, etc.
