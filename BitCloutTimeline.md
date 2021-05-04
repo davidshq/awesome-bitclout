@@ -10,13 +10,22 @@ This document attempts to trace developments in the BitClout ecosystem. It's pri
 - 1st - [Users you've blocked](https://bitclout.com/posts/f879f8e0035df8d1b543cf290366e82cf7086eb124bd09647c4fa3276ac73683) are now filtered out of messages.
 
 ### April
+- 30th - BitClout's [frontend code is made available on GitHub](https://bitclout.com/posts/5834f3e42830212001b73ef3ad96fea4354a91130b3c56d6a688c4d3bb5a1198).
+  - See [official BitClout frontend GitHub repository](https://github.com/bitclout/frontend).
+- 28th - BitClout [Identity documentation is made available](https://bitclout.com/posts/ccb1a67c24eafd8def5ab9620b51d5c5dff0067e8e10e6024df6722cc28cdecd).
+  - [Official BitClout Identity Documentation](https://docs.bitclout.com/devs/identity-api).
 - 26th - [BitClout's Exchange Listing API](https://bitclout.com/posts/af526c43f6787bf4b961402b6b9f757e2fe7401b05d1bf4c5a25c3d8fbf2d0c9) is made public.
   - See [official documentation](https://docs.bitclout.com/devs/exchange-listing-api).  
+- 26th - [BitClout Identity source code is released](https://bitclout.com/posts/738eb44b00f85d941e97f3d5cc6fa8518ce535f160a68a0f374dac685a46a288).
+   - [Official BitClout Identity Repository](https://github.com/bitclout/identity).
 - 23rd - [BitClout releases nodes](https://bitclout.com/posts/a49d97f48b3e61e77e903c215657ba6e4270742449191de89025147ddf1069bf) so others can launch their own.
 - 21st - BitClout [manages to restore most user images](https://bitclout.com/posts/697b72701ecf299eee9592727ab10b58b1ef099fa931ed35ff0b06001ac96440).
+- 21st - [Source code for BitClout Block Explorer is released](https://bitclout.com/posts/c3594ec47d575a38451663bb51b0985d5f8a9ae285ed7be10556db9905a75cda).
+  - [Official BitClout Block Explorer Source Code](https://github.com/bitclout/explorer)
 - 18th - BitClout [image uploading](https://bitclout.com/posts/cbdda460a2c20a31f51d902861433136c505e4ec002161e2ba32ef58d7db7da9) begins working again.
 - 17th - [Images are not displaying](https://bitclout.com/posts/cbeb6fffb0b7436ba155eeef7fba9d7c433b8afec3eab891c15f0a5e14315822) on BitClout, uploading becomes problematic.
 - 9th - BitClout releases [reclouting](https://bitclout.com/posts/b1cf68f5eb829f8c6c42abe009f315ee921d46c91cc6bd3b9cab9dc4851addc1), akin to Twitter's retweet.
+- 5th - [Clicking on images in posts displays full image](https://bitclout.com/posts/970a46f120b552774c3d28b8070d04280c0f9073edb624e2e429e3005ca58bc5).
 - 4th - The BitClout network is upgraded to [2 MB blocks](https://bitclout.com/posts/cbde15fd351d8cb6bed7638b7c687ef2d100bd2ea985f57401f9cb10194799a7).
 
 ### March
