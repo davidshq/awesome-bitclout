@@ -21,3 +21,9 @@ This document attempts to trace developments in the BitClout ecosystem. It's pri
 
 ### March
 - 30th - BitClout upgrade results in [faster nodes, removal of password prompt](https://bitclout.com/posts/3780d87fa76e3825aa7cfb60ab0dbeea88127c7790a86ec58ceec8428aff663b) that was limiting public access.
+- 24th - BitClout [bug fixes](https://bitclout.com/posts/3fb28568e15ca76ad25022a6fe615593076a979311b153b6dfd2e18d17a47f23).
+- 23rd - BitClout [reenables password due to heavy load](https://bitclout.com/posts/5ad3c5d20560bd5f8615bbf39c3079acbd1309b6d5bdb160b549a1ce971a0c99).
+- 23rd - BitClout [removes password to allow public access](https://bitclout.com/posts/a7d7812e6ee73f79aa11ff76622d1d71f2367dce1a4c96cd8552f04ed4f8b3aa).
+- 21st - [Notifications begin working, ability to block other users](https://bitclout.com/posts/4f61aaafd26a8f1e6676e29885237a665e7514f4f24dfbf3e7e3d04c321296f5).
+- 17th - [Creator Coin page fixed](https://bitclout.com/posts/e4aa1bfb0e0b95af87a6a4e0ea7b652a7fd1b08a6aec278b917ffb1b68df2c09).
+- 17th - [Creating posts and profiles become available](https://bitclout.com/posts/7decdee960725bf14326b77b9918145aec6bc32df42451cf937a828cfef01c61).
