@@ -4,13 +4,17 @@ Curated collection of code, tools, and resources relating to the BitClout blockc
 
 Note: I have not utilized all of the tools here, please do your own due diligence in determining their appropriateness, security, and safety for your particular use case.
 
-## BitClout Source Code
+## Official BitClout Source Code, Documentation, and APIs
 - [bitclout/frontend](https://github.com/bitclout/frontend) - The frontend used on BitClout.com, an Angular app and reference implementation.
 - [bitclout/identity](https://github.com/bitclout/identity) - An identity service for BitClout, implementation can be seen at identity.bitclout.com.
 - [bitclout/run](https://github.com/bitclout/run) - Code and instructions for running a BitClout node.
 - [bitclout/desktop](https://github.com/bitclout/desktop) - Electron desktop app for BitClout.
 - [bitclout/explorer](https://github.com/bitclout/explorer) - A BitClout blockchain explorer.
 - [bitclout/docs](https://github.com/bitclout/docs) - Markdown and gitbook config for documentation.
+- [BitClout Guide](https://docs.bitclout.com/) - Generated GitBook documentation on BitClout systems.
+  - [Running a Node](https://docs.bitclout.com/devs/running-a-node)
+  - [Exchange Listing API](https://docs.bitclout.com/devs/exchange-listing-api)
+  - [Identity API](https://docs.bitclout.com/devs/identity-api)
 
 ## Documentation
 
