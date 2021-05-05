@@ -6,7 +6,7 @@ This document attempts to trace developments in the BitClout ecosystem. It's pri
 ## 2021
 
 ### May
-- 5th - [Diamonds](https://bitclout.com/posts/21f9c1e3e570ad2ab8f509bd95ef50d13a05f6c53d752028ac90ea0afa1e10f6) whill allow one to give x of one's creator coins to another user for inspired content.
+- 5th - [Diamonds](https://bitclout.com/posts/21f9c1e3e570ad2ab8f509bd95ef50d13a05f6c53d752028ac90ea0afa1e10f6) will allow one to give x of one's creator coins to another user for inspired content.
 - 1st - [Users you've blocked](https://bitclout.com/posts/f879f8e0035df8d1b543cf290366e82cf7086eb124bd09647c4fa3276ac73683) are now filtered out of messages.
 
 ### April
