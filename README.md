@@ -77,6 +77,7 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 - [@cloutfeed](https://bitclout.com/u/cloutfeed) - Creators of a BitClout mobile app for the Apple iPhone.
 
 ## What is BitClout?
+- [BitClout's Documentation of What is BitClout?](https://docs.bitclout.com/)
 - [BitClout's One Pager](https://bitclout.com/one_pager.pdf) (that is seven pages long)
   - A brief introduction / overview to BitClout and how it works.
 - [coindesk's What Is BitClout?](https://www.coindesk.com/what-is-bitclout-the-social-media-experiment-stoking-controversy-on-twitter)
