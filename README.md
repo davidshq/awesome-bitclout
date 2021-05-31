@@ -48,6 +48,10 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 - [GoDo's BitClout Browser Extension](https://chrome.google.com/webstore/detail/bitclout/cibnoimijnodokdlhkbgogbnemfpkool?hl=en-US)
   - See the founder's reward percentage on the buy page, provides shortcuts for quicker navigation around BitClout, and includes various other analysis and stats added to the site.
 
+### Mining
+- [Cloutreactor](https://cloutreactor.com/) - A mining pool client which allows multiple miners to cooperatively mine BitClout. Open source, [@korbin](https://bitclout.com/u/korbin) is one of the developers.
+  - [On BitClout](https://bitclout.com/u/cloutreactor)
+
 ## Browser Extensions
 - [BitClout Dark Mode](https://jamesfuthey.com/bitclout-extension/) - An extension that works on Chromium, Firefox, and Safari browsers by @kidgodzilla.
 - See GoDo's BitClout Browser Extension under Power Tools.
