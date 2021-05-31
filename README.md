@@ -59,6 +59,7 @@ Curated collection of resources relating to the [BitClout blockchain social netw
 ## Mobile Apps
 - [CloutFeed](https://apps.apple.com/app/id1561532815) - Apple iPhone app for BitClout.
 - [CloutieApp](https://bitclout.com/u/CloutieApp) - An app for iOS and Mac, being developed by @chrismaddern and @wessmith.
+- [Flick](https://bitclout.com/u/flickapp) - iOS and Android client for BitClout. Founded by @nigeleccles and @robuk.
 
 ## CLI Apps
 - [clout-cli](https://github.com/andrewarrow/clout-cli) - CLI (Command Line Interface) app for clout.
