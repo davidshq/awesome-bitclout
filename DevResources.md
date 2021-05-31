@@ -44,6 +44,9 @@ Note: I have not utilized all of the tools here, please do your own due diligenc
 - [GoDo BitClout Extension](https://github.com/godocompany/bitclout-extension) - Similar to BitClout Plus but appears to have a more limited featureset.
 - [BitClout SuperWallet](https://github.com/ZakharDay/bitclout-superwallet) - Updates one's Wallet page with current values more quickly than BitClout.com itself does.
 
+## Miners
+- [Cloutreactor](https://cloutreactor.com) - Mining pool software. Site is currently on GitHub, so guessing it will be OSS, but currently only has README.md though functional releases are being made. One of devs is [@korbin](https://bitclout.com/u/korbin).
+
 ## BitClout Accounts to Follow
 
 These BitClout accounts are of value to those interested in the technical side of BitClout. Feel free to submit additional accounts (see Contributing at end of this doc). Only accounts which provide high value content will be included.
